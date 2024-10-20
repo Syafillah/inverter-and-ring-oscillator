@@ -1,1 +1,1 @@
-
+file inverter.sch for testbench simulation and file inverter1.sch for layout in magic
